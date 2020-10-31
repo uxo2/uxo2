@@ -1,14 +1,11 @@
-### Hi there 👋
+### UXO2  👋
 
-**uxo2/uxo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=uxo2&theme=dark" width="50%" align="right" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [cryptape][1]
+- :hammer_and_pick: 🔭 I’m currently working on [cryptape][1]
 - 🌱 I’m currently learning [React][2], [TypeScript][3], [nervos][4]
 - 👯 I’m looking to collaborate on [lay2][5]
-
-![](https://github-readme-stats.vercel.app/api?username=uxo2&theme=dark)
+-------
 
 [1]: https://www.cryptape.com/
 [2]: https://reactjs.org/
