@@ -1,4 +1,4 @@
-### UXO2  👋
+### UXO2  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=uxo2&show_icons=true&hide_border=false&theme=gotham&langs_count=8&custom_title=uxo2's Github cashbook" width="50%" align="right" />
@@ -9,9 +9,8 @@
 - :classical_building:
 - :hammer_and_pick:
 - :hammer_and_pick:
--------
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+-----
 
 
 
