@@ -1,7 +1,7 @@
 ### UXO2  👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=uxo2&show_icons=true&theme=gotham" width="50%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=uxo2&show_icons=true&hide_border=false&theme=gotham&langs_count=8&custom_title=uxo2's Github cashbook" width="50%" align="right" />
 
 - :hammer_and_pick: I’m currently working on [cryptape][1]
 - :hammer_and_pick: I’m currently learning [React][2], [TypeScript][3], [nervos][4]
