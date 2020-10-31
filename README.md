@@ -4,10 +4,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=uxo2&show_icons=true&hide_border=false&theme=gotham&langs_count=8&custom_title=uxo2's Github cashbook" width="50%" align="right" />
 
 - :hammer_and_pick: I’m currently working on [cryptape][1]
-- :hammer_and_pick: I’m currently learning [React][2], [TypeScript][3], [nervos][4]
-- :hammer_and_pick: I’m looking to collaborate on [lay2][5], [nervos][6]
-- :hammer_and_pick:
-- :hammer_and_pick:
+- :lemon: I’m currently learning [React][2], [TypeScript][3], [nervos][4] [lay2][5] [nervos][6]
+- :grapes:
+- :classical_building:
 - :hammer_and_pick:
 - :hammer_and_pick:
 -------
