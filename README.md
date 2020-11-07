@@ -8,8 +8,6 @@
 - :grapes: I like write article、chess、meditation.
 - :classical_building: I don't like shopping and bus...
 
------
-
 
 [1]: https://www.cryptape.com/
 [2]: https://reactjs.org/
