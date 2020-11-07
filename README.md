@@ -3,11 +3,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=uxo2&show_icons=true&hide_border=false&theme=gotham&langs_count=8&custom_title=uxo2's Github cashbook" width="50%" align="right" />
 
-- :hammer_and_pick: I’m currently working on [cryptape][1]
-- :lemon: I’m currently learning [React][2], [TypeScript][3], [nervos][4], [lay2][5]
-- :grapes:
-- :classical_building:
-- :hammer_and_pick:
+- :hammer_and_pick: I’m currently find a job...
+- :lemon: I’m currently learning [React][2], [TypeScript][3]
+- :grapes: I like write article、chess、meditation and want pulish personal book.
+- :classical_building: I don't like shopping and bus...
+- :hammer_and_pick: 
 - :hammer_and_pick:
 
 -----
