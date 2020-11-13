@@ -5,7 +5,7 @@
 
 - :hammer_and_pick: I’m currently find a job...
 - :lemon: I’m currently learning [React][2], [TypeScript][3]
-- :grapes: I like write article、chess、meditation.
+- :grapes: I like write article、chess、meditation、King of Glory.
 - :classical_building: I don't like shopping and bus...
 
 
