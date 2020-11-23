@@ -5,7 +5,7 @@
 
 - :hammer_and_pick: I am looking for the other half of my life.
 - :lemon: I am currently learning [Vue][1] [React][2], [TypeScript][3]
-- :grapes: I like write article、chess、meditation and play King of Glory.
+- :grapes: I like write article、chess and play King of Glory.
 - :classical_building: I hata shopping、coffee and busing.
 - :lemon: I am designing my ten-year plan.
 
