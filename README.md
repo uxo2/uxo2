@@ -7,6 +7,7 @@
 - :lemon: I am currently learning [Vue][1] [React][2], [TypeScript][3]
 - :grapes: I like write article、chess and play King of Glory.
 - :classical_building: I hate shopping、coffee and busing.
+- :orange: email: 17779116463@163.com
 
 [1]: https://v3.vuejs.org/guide/introduction.html
 [2]: https://reactjs.org/
